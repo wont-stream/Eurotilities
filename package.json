@@ -1,0 +1,13 @@
+{
+	"name": "eurotilities",
+	"scripts": {
+		"build": "bunx --bun zpl build Eurotilities",
+		"init": "bunx --bun zpl init"
+	},
+	"dependencies": {
+		"zerespluginlibrary": "^2.0.6"
+	},
+	"devDependencies": {
+		"@types/bun": "^1.1.10"
+	}
+}

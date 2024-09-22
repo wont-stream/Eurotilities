@@ -1,0 +1,9 @@
+{
+	"main": "index.js",
+	"id": "Eurotilities",
+	"name": "Eurotilities",
+	"author": "Seth",
+	"authorId": "1273447359417942128",
+	"version": "0.0.1",
+	"description": " A BetterDiscord plugin providing an opinionated collection of tweaks. "
+}
